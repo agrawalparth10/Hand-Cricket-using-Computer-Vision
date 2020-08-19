@@ -3,11 +3,15 @@
 
 ### ToDo List 
 
-1. Finger digit recognition 
-2. Build the UI for the game 
-3. Build the client 
-4. Build the server
-5. Integrate 
-6. Improve UI 
+1. -[x] ~~Finger digit recognition~~ 
+2. -[x] ~~Build the UI for the game~~ 
+3. -[x] ~~Build the client~~ 
+4. -[x] ~~Build the server~~
+5. -[x] ~~Integrate~~ 
+6. -[ ] Improve UI 
 
 ### Usage
+Coming soon 
+
+### References 
+1. <https://www.youtube.com/watch?v=_fx7FQ3SP0U>

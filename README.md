@@ -1,5 +1,9 @@
 # Hand-Cricket-using-Computer-Vision
+
+### Description
 2 Player Hand Cricket Game using Computer Vision built on server client model
+
+### Model configurations
 
 ### ToDo List 
 
